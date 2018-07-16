@@ -1,14 +1,14 @@
 # Rails Girls Guides
 
-Our aim is to give tools for women to understand technology. The Rails Girls events do this by providing a great first experience on building the Internet.
+Our aim is to provide tools for women to understand technology. The Rails Girls events provide a great first experience on building the Internet.
 
-Rails Girls was founded in end of 2010 in Helsinki. Originally intended as a onetime event, we never thought to see so many local chapters all around the world! This guide has been put together to help you get started.
+Rails Girls was founded in end of 2010 in Helsinki. Originally intended as a onetime event. The guide has been put together to help you to get started.
 
-You can use our materials and instructions to roll out your own workshop in your city, workplace or kitchen! Read more about Rails Girls at http://railsgirls.com
+You can use our materials and instructions to roll out your own workshop in your city, workplace or kitchen! If you want to read more about Rails Girls at http://railsgirls.com
 
 ## Quick start
 
-View the guides at http://guides.railsgirls.com or clone this repo and install & run [jekyll](https://github.com/mojombo/jekyll)
+To view the guides at http://guides.railsgirls.com or clone this repo and install & run [jekyll](https://github.com/mojombo/jekyll)
 
 ### Installing jekyll
 
@@ -29,7 +29,7 @@ The guides use the [pygments](http://pygments.org/) library to do syntax highlig
 {% endhighlight %}
 ```
 
-If you aren't editing the code blocks, you can safely ignore this. If you want pygments, you can follow the [install instructions](http://jekyllrb.com/docs/installation/) in the "Pygments" section.
+If you aren't editing the code blocks, you can safely ignore this. If you want to pygments, you can follow the [install instructions](http://jekyllrb.com/docs/installation/) in the "Pygments" section.
 
 ### Run jekyll
 
@@ -39,9 +39,9 @@ $ bundle exec jekyll server --watch
 
 ### Styling
 
-Wrap keyboard shortcuts with [kbd](https://www.w3.org/wiki/HTML/Elements/kbd) HTML tag.
+To wrap the keyboard shortcuts with [kbd](https://www.w3.org/wiki/HTML/Elements/kbd) HTML tag.
 
-To make posts consistent in style use `Ctrl+C` over `CTRL-c`/`ctrl+c`
+To make the posts consistent in style, you can use `Ctrl+C` over `CTRL-c`/`ctrl+c`
 
 ```
 To shut down the server you can hit <kbd>Ctrl</kbd>+<kbd>C</kbd>
@@ -53,7 +53,7 @@ You might find some useful hints in this jekyll issue if it's not working as exp
 
 ## Contributing a Guide
 
-To contribute a guide, view the instructions at http://guides.railsgirls.com/contributing
+To contribute a guide, you can view the instructions at http://guides.railsgirls.com/contributing
 
 ## Twitter
 
